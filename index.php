@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/style.css">
     
-    <title>ای-کمپلکس</title>
+    <title>کمپلکس آ</title>
 </head>
 <body>
   <!-- BEGIN: Navigation -->
