@@ -93,7 +93,7 @@
       همه‌ی حقوق برای کمپلکس آ میباشد.
     </span>
     <br>
-    <span>
+    <span style="font-size: 13px;">
       Powered By 
       <a href="http://imgx.ir">IMGX</a>
     </span>
